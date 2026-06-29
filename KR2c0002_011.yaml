@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2c0002/krp/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻汲冡周書䟦汲冡周書自漢巳入中秘晉太康間竹簡古書稍稍復岀云書疑戰國士綴拾成之藉周爲名孔氏殆未之見者凡七十篇眞贋醇駁讀者類能辨之然藝圃菁蕐芬芳縟采上遡二京而先秦七國則斯編也其逸響高韻之存乎余念莆爲書學淵藪以手抄善本刻此俾誦者知爲經之别録俱不可捐爾峕嘉靖癸丣長至月吉旦賜進士福建興化府推官前山西道監察御史四朙後學章檗謹䟦
+  hash: sha256:0079ed526870cb5361f290128fda3212f393fdbc23145d6771793fec238efc88
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2c0002_SBCK_011-1a}
+metadata:
+  title: 汲冢周書
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-10 23:24:09.167155'
+  source:
+    repository: kanripo
+    path: KR2c0002/KR2c0002_011.txt
+hash: sha256:dc9a843c5d8a655d6ae10c8588f43d2dc655f2b4888c4d5d98825da72945d414
